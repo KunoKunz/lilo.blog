@@ -1,8 +1,8 @@
 +++
 title = "Über mich"
 draft = false
+image = "pirat_kk.png"
 description = "Ich bin seit bald 30 Jahren in der Informatik in unterschiedlichen Aufgaben tätig. Aktuell als Programmleiter bei der Stadt Bern. "
-image = "/media/piratekk.png"
 +++
 ![](/img/woguckstdu.png)
 
