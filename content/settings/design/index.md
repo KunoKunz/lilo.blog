@@ -1,7 +1,8 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
-color = "#5d9fbd"
+icon = "/img/piratessquare.jpg"
+logo = "/img/piratessquare.jpg"
+image = "/img/twitter1500-500.png"
+color = ""
 +++
+
