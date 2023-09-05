@@ -1,0 +1,12 @@
++++
+title = "Digital Open Innovation"
+draft = false
+description = "Heute ist Open Innovation in den grössten Schweizer Unternehmen wohl mehrheitlich etabliert. Im digitalen Umfeld wird dabei nur ein kleiner Teils des ursprünglichen Konzepts berücksichtigt und damit das Potenzial für den Aufbau demokratischer Plattformen verspielt."
++++
+Die zunehmende Digitalisierung von Wirtschaft und Gesellschaft verändert die Art, wie Innovationen geschaffen und verwertet werden können: Kunden und Benutzer wollen und können stärker bei der Entwicklung oder Verbesserungen von Produkten partizipieren oder selber zu einem Produzenten werden. Aus der gemeinschaftlichen Entwicklung rund um freie- und Open Source Software sind Konzepte für die vernetzte Zusammenarbeit und neue, digitale Geschäftsmodelle entstanden, welche nicht nur den offenen Wissensaustausch proklamieren, sondern auch deren Innovationen wiederum der Allgemeinheit zur Verfügung stellen.
+
+Weshalb aber sollten Individuen und Firmen auf den \[Schutz ihres geistigen Eigentums] verzichten und ihre Innovationen mit anderen teilen? Die aktuelle Forschung zu Open Innovation und Open Source Software zeigt Ansätze, wie dieses Paradoxon überwunden werden kann. Zentral sind dabei die \[Motive für die Zusammenarbeit] mit anderen sowie \[neue Formen der Verwertung von Innovationen].
+
+\[Plattformen] sind sowohl für Open Innovation wie auch in der Software-Industrie das Geschäftsmodell der Stunde. Auf einer \[“Open Digital Innovation Platform“] wird daher der gekoppelte Innovationsprozess abgebildet und erläutert, wie die Plattform aufgebaut ist, welche Prozesse sie abdeckt und welche Auswirkungen dessen Anwendung auf die Strategie, die Organisation sowie die Steuerung eines Unternehmens mit sich bringen.
+
+Offene Innovationen von Communities oder Individuen werden zunehmend wettbewerbsfähig und haben das Potenzial, bestehende Produzenten zu ersetzen. Dieser Wandel – getrieben von der technologischen Entwicklung – kann durch die “Open Digital Innovation Platform“ weiter vorangetrieben und demokratisiert werden. Eine solche Plattform verspricht den grössten Nutzen für alle Beteiligten und fördert erst noch die soziale Wohlfahrt. Für öffentliche Institutionen und Unternehmen sollte daher das Veröffentlichen ihrer digitalen Innovationen von der heutigen Ausnahme zur Regel werden. Dafür braucht es das [politische Engagement](https://be.piratenpartei.ch/programm-fuer-die-nationalen-wahlen-2019/) der Piratenpartei und [mehr digitale Kompetenz im Parlament](https://www.kunokunz.ch/votepirate/).
