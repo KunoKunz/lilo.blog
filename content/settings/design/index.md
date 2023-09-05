@@ -1,8 +1,8 @@
 +++
 headless = true
-icon = "/img/piratessquare.jpg"
-logo = "/img/piratessquare.jpg"
-image = "/img/twitter1500-500.png"
+icon = "/media/piratessquare.jpg"
+logo = "/media/piratessquare.jpg"
+image = "/media/twitter1500-500.png"
 color = ""
 +++
 
