@@ -18,6 +18,12 @@ title = "Digital Open Innovation"
 url = "https://www.kunokunz.ch/digital-open-innovation/"
 
 [[link]]
+title = "Vote Pirate"
+url = "https://www.kunokunz.ch/vote-pirate/"
+
+
+
+[[link]]
 title = "Über mich"
 url = "/about/"
 +++
