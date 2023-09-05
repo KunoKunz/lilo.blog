@@ -2,6 +2,6 @@
 headless = true
 name = "André Kunz"
 image = "/media/pirat_ak.png"
-email = "andre@hitobito.com"
+email = "qno.k@pm.me"
 url = "https://kunokunz.ch/about/"
 +++
