@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = ""
-url = "/about/"
+name = "André Kunz"
+image = "/img/woguckstdu.png"
+email = "andre@hitobito.com"
 +++
