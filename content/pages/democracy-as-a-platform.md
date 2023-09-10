@@ -1,6 +1,6 @@
 +++
 title = "Democracy as a Platform"
-draft = false
+draft = true
 description = "Ich habe vor einiger Zeit ein Proposal für eine Masterarbeit verfasst, welches ich danach doch nicht einreichte. Es liest sich etwas zäh, sollte aber doch für Menschen, die sich bereits mit CivicTech und CivicJournalism beschäftigten, verständlich sein. bla, bla, bla"
 footnotes = "<a rel=\"me\" href=\"https://mastodon.social/@KunoKunz\">Mastodon</a>"
 +++
