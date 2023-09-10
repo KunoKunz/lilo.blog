@@ -4,7 +4,7 @@ draft = false
 image = "pirat_kk.png"
 description = "Ich bin seit bald 30 Jahren in der Informatik in unterschiedlichen Aufgaben tätig. Aktuell als Programmleiter bei der Stadt Bern. "
 +++
-![](/img/woguckstdu.png)
+![](pirat_kk.png)
 
 ## Berufliche Stationen
 
